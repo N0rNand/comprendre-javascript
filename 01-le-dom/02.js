@@ -1,6 +1,7 @@
 /* Il existe maintenant 2 méthodes permettant d'accéder
 aux éléments de manière plus simple. */
 
+/* La méthode querySelector renvoie le premier élément correspondant dans le document */
 var bodyElement = document.querySelector('body');
 console.log(bodyElement);
 
